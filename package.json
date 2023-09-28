@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-shelly-ng",
-  "version": "1.6.0",
+  "name": "homebridge-shelly-ng-ul",
+  "version": "1.6.3",
   "description": "Homebridge plugin for the next generation of Shelly devices",
   "main": "dist/index.js",
   "scripts": {
@@ -46,6 +46,6 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "shellies-ng": "^1.5.1"
+    "shellies-ng": "1.5.1"
   }
 }
