@@ -1,6 +1,6 @@
 {
   "name": "homebridge-shelly-ng-ul",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "Homebridge plugin for the next generation of Shelly devices",
   "main": "dist/index.js",
   "scripts": {
@@ -16,23 +16,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexryd/homebridge-shelly-ng.git"
+    "url": "git+https://github.com/jmsolomon2000/homebridge-shelly-ng-ul/homebridge-shelly-ng.git"
   },
   "keywords": [
     "homebridge",
     "homebridge-plugin",
     "shelly"
   ],
-  "author": "Alexander Rydén",
+  "author": "Alexander Rydén, Jared Solomon",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/alexryd/homebridge-shelly-ng/issues"
+    "url": "https://github.com/jmsolomon2000/homebridge-shelly-ng-ul/issues"
   },
-  "homepage": "https://github.com/alexryd/homebridge-shelly-ng#readme",
-  "funding": {
-    "type": "kofi",
-    "url": "https://ko-fi.com/alexryd"
-  },
+  "homepage": "https://github.com/jmsolomon2000/homebridge-shelly-ng-ul#readme",
   "devDependencies": {
     "@types/jest": "^28.1.2",
     "@types/node": "^18.0.0",
