@@ -1,6 +1,6 @@
 {
   "name": "homebridge-shelly-ng-ul",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "description": "Homebridge plugin for the next generation of Shelly devices",
   "main": "dist/index.js",
   "scripts": {
